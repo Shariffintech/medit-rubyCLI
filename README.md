@@ -47,7 +47,7 @@ Or install it yourself as:
 ## Usage
 Type the following below to start the medit-Ruby CLI and begin your diagnosis:
 
-./bin/start
+./bin/medit
 
 ## Development
 
