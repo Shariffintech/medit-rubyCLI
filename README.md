@@ -45,8 +45,9 @@ Or install it yourself as:
     $ gem install medit-RubyCLI
 
 ## Usage
+Type the following below to start the medit-Ruby CLI and begin your diagnosis:
 
-TODO: Write usage instructions here
+./bin/start
 
 ## Development
 
