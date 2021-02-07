@@ -6,9 +6,9 @@ There are a number of financial ratios that can be reviewed to gauge a company's
 
 The purpose of this CLI, **Medit**, leverages data from the [AlphaAdvantageAPI](https://www.alphavantage.co/documentation/) to output pillars or signals to display the true financial health of a publicly-traded company. User will be able to enter the companies stock symbol and **Medit** will return the companies: 
 
-1. **Industry -** **coming soon**
-2. **Liquidity:** Current ratio = Current Assets / Current liabilities - **coming soon**
-3. **Solvency:** D/E ratio = Total liabilities / Total Shareholders Equity = **coming soon**
+1. **Industry -** 
+2. **Liquidity:** Current ratio = Current Assets / Current liabilities
+3. **Solvency:** D/E ratio = Total liabilities / Total Shareholders Equity 
 4. **OperatingMargin, Trailing Twelve Months (TTM):** This metric indicates not only a company's basic operational profit margin after taking away the variable costs of producing and marketing the company's products or services, but it also provides an indication of how well the company's management controls costs.
 5. **Profit margin:** Companies can survive for years without being profitable, operating on the goodwill of creditors and investors, but to survive in the long run, a company must eventually maintain profitability.
 
