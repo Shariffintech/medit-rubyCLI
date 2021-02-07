@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+require './lib/rubyCLI'
+require "dotenv/load"
+
+cli = CLI.new
+cli.call
