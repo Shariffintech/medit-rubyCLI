@@ -33,7 +33,7 @@ CLI app with object relationships. Uses HTTParty for API calls.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'medit'
+gem 'medit-RubyCLI'
 ```
 
 And then execute:
@@ -42,7 +42,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install medit
+    $ gem install medit-RubyCLI
 
 ## Usage
 
